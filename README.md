@@ -21,4 +21,4 @@ Aplicación web creada en React para gestionar contactos y marcarlos como favori
 ---
 ## 📸 Capturas de Pantalla
 
-![Vista de la aplicación](./assets/image.png)
+![Vista de la aplicación](./assets/screenshot1.png)
